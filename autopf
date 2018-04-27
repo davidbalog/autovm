@@ -1,6 +1,6 @@
 name="autopfsense"
 os='OpenBSD_64'
-sizeDisk=15000
+sizeDisk=20000
 isofile='/home/user/pfSense-CE-2.4.2-RELEASE-amd64.iso'
 filepath='/home/balogdavid/VirtualBox VMs/'
 
