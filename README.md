@@ -1,3 +1,3 @@
 # autovm
 #autopf 100%?
-#autoubu
+#autoubu 100%
